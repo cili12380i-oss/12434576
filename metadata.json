@@ -1,0 +1,6 @@
+{
+  "name": "策论研习社",
+  "description": "面向申论写作的卡片式核心论点提取、范文结构精析、素材金句库与写作提纲构建平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
